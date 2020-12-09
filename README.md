@@ -15,17 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex; flex-wrap: wrap;">
-  <a href="https://github.com/powerkaifu/github-profile-summary-cards">
-    <img
-      width="73%"
-      src="https://raw.githubusercontent.com/wewayzehoa/github-profile-summary-cards/master/profile-summary-card-output/monokai/0-profile-details.svg"
-    />
-  </a>
-  <a right: 0;top:0;" href="https://github.com/wewayzehoa/github-profile-summary-cards">
-    <img
-      width="24%"
-      src="https://raw.githubusercontent.com/wewayzehoa/github-profile-summary-cards/master/profile-summary-card-output/monokai/3-stats.svg"
-    />
-  </a>
-</div>
+
+[![](https://raw.githubusercontent.com/weayzehoa/github-profile-summary-cards/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
